@@ -1,3 +1,3 @@
 # Weather App using HTML, CSS. 
 
-weatherapp.github.io
+https://ameyapadole.github.io/weatherapp/
